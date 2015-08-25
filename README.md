@@ -5,11 +5,9 @@ HTML5 Training
 ## Author
 ChaiChunyan
 
-> - QQ: 87734270
 > - Home: [站在科技与人文的十字路口](http://www.chaichunyan.com)
 > - Blog: [cychai的专栏](http://blog.csdn.net/spring21st)
 > - Mail: [chaichunyan@msn.com](chaichunyan@msn.com)
-> - Weibo: @[chaichunyan](http://weibo.com/chaichunyan)
 > - zhihu: @[chaichunyan](http://www.zhihu.com/people/chaichunyan)
 
 ## Agenda
